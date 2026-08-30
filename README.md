@@ -85,6 +85,23 @@ Practical projects that build my technical foundation in programming, data handl
 
 Prompt engineering · Prompting logic · Conversational logic · Live prompting · Prompt enhancement · AI-response testing · Quality validation · Talent Acquisition · Candidate screening · Behavioral interviewing · Stakeholder management · Jira · GitHub · Python · SQL
 
+## Tools and Platforms
+
+### AI and Prompt Development
+GitHub Copilot · ChatGPT · Claude AI · Augur AI · WorkBench
+
+### Collaboration and Project Delivery
+Jira · Confluence · GitHub · Azure · Visual Studio · Zoho
+
+### Talent Acquisition and HR Systems
+Workday · Taleo · StaffCentral · Cloudbase ATS · HubSpot
+
+### Recruitment Platforms
+LinkedIn · Indeed · JobStreet · Monster · PesoJobFair
+
+### Productivity and Data Skills
+Google Workspace · Microsoft 365 · Outlook · Python · SQL
+
 ## Contact
 
 - Email: chengztunz143@gmail.com
