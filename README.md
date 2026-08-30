@@ -89,4 +89,4 @@ Prompt engineering · Prompting logic · Conversational logic · Live prompting 
 
 - Email: chengztunz143@gmail.com
 - Location: Cebu, Philippines
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/racheltunacao/
